@@ -2,9 +2,6 @@
 
 A simple quiz application built using **HTML, CSS, and JavaScript** to practice and enhance JavaScript concepts such as **DOM manipulation, event listeners, object arrays, and more**.
 
-## 🚀 Live Demo
-[Click here to play the quiz](https://your-live-project-link.com) 
-
 ## 🎯 Features
 - Interactive quiz with **5 multiple-choice questions**.
 - Questions and answers are stored in an **array of objects**.
@@ -16,8 +13,6 @@ A simple quiz application built using **HTML, CSS, and JavaScript** to practice 
 - DOM Manipulation
 - Event Listeners
 - Arrays & Objects
-- Dynamic Content Rendering
-- UI Feedback Handling
 
 ## 📜 How It Works
 1. Read the displayed question and choose **one** answer from the **four given options**.
@@ -28,7 +23,6 @@ A simple quiz application built using **HTML, CSS, and JavaScript** to practice 
 6. Click the **Play Again** button to restart the quiz.
 
 ## 📷 Screenshots
-_Add screenshots here to showcase the app_
 
 ## 🔧 Installation
 1. Clone the repository:
